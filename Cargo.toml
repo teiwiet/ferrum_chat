@@ -8,7 +8,9 @@ edition = "2021"
 [dependencies]
 
 
-
+[[bin]]
+path = "backend/src/main.rs"
+name = "ferrum_chat"
 [workspace]
 members = [
     "backend",

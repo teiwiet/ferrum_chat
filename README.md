@@ -1,2 +1,2 @@
 # Ferrum chat 
-- Chat web for learning rust purpose
+- learning project
