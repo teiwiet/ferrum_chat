@@ -1,2 +1,2 @@
 # Ferrum chat 
-- learning project
+- Hope i dont get bored this time
